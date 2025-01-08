@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Daf-41h&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Daf-41h&theme=midnight-purple&hide_border=false)
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daf-41h&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daf-41h&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 # 🔝 Top Contributed Repo
