@@ -20,7 +20,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Daf-41h&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Daf-41h&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daf-41h&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daf-41h&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=daf-41h&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
